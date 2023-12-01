@@ -1,0 +1,14 @@
+[
+  {
+    "key" : "yesContinue",
+    "value" :  "Yes, continue"
+  },
+  {
+    "key" : "noGoBack",
+    "value" :  "No, go back"
+  },
+  {
+    "key" : "cancel",
+    "value" :  "Cancel"
+  }
+]

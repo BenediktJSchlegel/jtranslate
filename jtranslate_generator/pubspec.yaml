@@ -1,0 +1,16 @@
+name: jtranslate_generator
+description: "A new Flutter project."
+version: 0.0.1
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies:
+  build:
+  path:
+
+dev_dependencies:
+  build_config:
+  build_runner:
+  pedantic:
+  test:

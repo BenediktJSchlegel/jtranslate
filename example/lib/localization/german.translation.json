@@ -1,0 +1,14 @@
+[
+  {
+    "key" : "yesContinue",
+    "value" :  "Ja, weiter"
+  },
+  {
+    "key" : "noGoBack",
+    "value" :  "Nein, zurück"
+  },
+  {
+    "key" : "cancel",
+    "value" :  "Abbrechen"
+  }
+]
