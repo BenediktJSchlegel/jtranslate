@@ -1,6 +1,6 @@
 targets:
   jtranslate_example:jtranslate_example:
     builders:
-      jtranslate_generator|jsonToCodeBuilder:
+      jtranslate|jsonToCodeBuilder:
         generate_for:
           - lib/localization/english.translation.json

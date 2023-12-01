@@ -1,12 +1,12 @@
 targets:
-  jtranslate_generator:jtranslate_generator:
+  jtranslate:jtranslate:
     builders:
-      jtranslate_generator|jsonToCodeBuilder:
+      jtranslate|jsonToCodeBuilder:
         enabled: True
 
 builders:
   jsonToCodeBuilder:
-    import: 'package:jtranslate_generator/jtranslate_generator.dart'
+    import: 'package:jtranslate/jtranslate_generator.dart'
     builder_factories: ['jsonToCodeBuilder']
     build_extensions:
       .json:

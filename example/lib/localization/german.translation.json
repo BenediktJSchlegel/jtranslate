@@ -1,14 +1,14 @@
 [
   {
-    "key" : "yesContinue",
-    "value" :  "Ja, weiter"
+    "key" : "YouHavePushedTheButtonThisManyTimes",
+    "value" :  "Du hast den button so oft gedrückt"
   },
   {
-    "key" : "noGoBack",
-    "value" :  "Nein, zurück"
+    "key" : "FlutterDemoPage",
+    "value" :  "Flutter Demo Seite"
   },
   {
-    "key" : "cancel",
-    "value" :  "Abbrechen"
+    "key" : "FlutterDemo",
+    "value" :  "Flutter Demo"
   }
 ]

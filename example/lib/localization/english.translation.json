@@ -1,14 +1,14 @@
 [
   {
-    "key" : "yesContinue",
-    "value" :  "Yes, continue"
+    "key" : "YouHavePushedTheButtonThisManyTimes",
+    "value" :  "You have pushed the button this many times"
   },
   {
-    "key" : "noGoBack",
-    "value" :  "No, go back"
+    "key" : "FlutterDemoPage",
+    "value" :  "Flutter Demo Page"
   },
   {
-    "key" : "cancel",
-    "value" :  "Cancel"
+    "key" : "FlutterDemo",
+    "value" :  "Flutter Demo"
   }
 ]

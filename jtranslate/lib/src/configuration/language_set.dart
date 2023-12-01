@@ -3,7 +3,7 @@ class LanguageSet{
   final String _path;
   final String _key;
 
-  LanguageSet(this._path, this._key);
+  LanguageSet(this._key, this._path);
 
   String get key => _key;
 
