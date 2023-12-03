@@ -1,9 +1,4 @@
 
-
-flutter pub run build_runner build --delete-conflicting-outputs
-
-dart run build_runner build --delete-conflicting-outputs
-
 ### JSON Setup:
 Each supported language is defined in it's own JSON file. The key of each entry is used
 to access the value from any given language.
@@ -30,7 +25,7 @@ flutter:
 
 Use the related `jtranslate_generator` package to automatically generate translation-key constants.
 
-[LINK TO GENERATOR]
+https://pub.dev/packages/jtranslate_generator
 
 ### Instantiation:
 ``` dart

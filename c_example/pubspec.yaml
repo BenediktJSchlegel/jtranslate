@@ -1,0 +1,31 @@
+name: jtranslate_example
+description: "A new Flutter project."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  jtranslate:
+    path: ../jtranslate/
+  jtranslate_generator:
+    path: ../jtranslate_generator/
+
+  cupertino_icons: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  build_runner:
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  assets:
+    - lib/localization/english.translation.json
+    - lib/localization/german.translation.json
+
+  uses-material-design: true

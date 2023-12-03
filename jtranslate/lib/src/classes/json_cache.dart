@@ -1,23 +1,29 @@
-
 import 'dart:convert';
 
-import 'package:jtranslate/jtranslate_generator.dart';
+import 'package:flutter/services.dart';
+import 'package:jtranslate/jtranslate.dart';
 
 class JsonCache{
   final LanguageSet _set;
 
-  Map<String, String> _cache;
+  Map<String, dynamic>? _cache;
 
-  JsonCache(this._set) : _cache = load(_set.path);
+  JsonCache(this._set);
+
+  Future<void> init() async{
+    await load(_set.path);
+  }
 
   get key => _set.key;
 
 
-  static Map<String, String> load(String path){
-    return jsonDecode(path);
+  Future<void> load(String path) async{
+    _cache = jsonDecode(await rootBundle.loadString(path));
   }
 
   String? get(String translationKey){
-    return _cache[translationKey];
+    if(_cache == null) return null;
+
+    return _cache![translationKey];
   }
 }

@@ -1,0 +1,20 @@
+name: jtranslate_generator
+description: "automatic constant generator for the `jtranslate` package."
+version: 1.0.1
+homepage: https://github.com/BenediktJSchlegel/jtranslate
+
+platforms:
+  android:
+  ios:
+  windows:
+
+environment:
+  sdk: '>=3.2.1 <4.0.0'
+
+dependencies:
+  build: ^2.4.1
+  path: ^1.8.3
+
+dev_dependencies:
+  build_config: ^1.1.1
+  build_runner: ^2.4.7

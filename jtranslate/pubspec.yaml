@@ -1,16 +1,18 @@
 name: jtranslate
-description: "A new Flutter project."
-version: 0.0.1
+description: "A JSON based translation and textblock library."
+version: 1.0.1
+homepage: https://github.com/BenediktJSchlegel/jtranslate
+
+platforms:
+  android:
+  ios:
+  windows:
 
 environment:
   sdk: '>=3.2.1 <4.0.0'
 
 dependencies:
-  build:
-  path:
+  flutter:
+    sdk: flutter
 
-dev_dependencies:
-  build_config:
-  build_runner:
-  pedantic:
-  test:
+flutter:

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d97de6-6a7b-41ff-9eb9-dc85be0d4d85" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/runConfigurations/main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b_example/b_example/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b_example/b_example/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b_example/b_example/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b_example/b_example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../b_example/b_example/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/kotlin/com/example/c_example/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/build.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/lib/enums/language_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/lib/localization/english.translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/lib/localization/german.translation.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c_example/windows/runner/win32_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/lib/enums/language_keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/flutter/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/flutter/generated_plugin_registrant.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/Runner.rc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/flutter_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/flutter_window.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/resource.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/resources/app_icon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/runner.exe.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/utils.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/utils.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/win32_window.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../example/windows/runner/win32_window.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/../example/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/lib/localization/english.translation.g.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/lib/localization/english.translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/../example/lib/localization/english.translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/lib/localization/german.translation.json" beforeDir="false" afterPath="$PROJECT_DIR$/../example/lib/localization/german.translation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/lib/src/classes/json_cache.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../jtranslate/lib/src/classes/json_cache.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/lib/src/configuration/jtranslator_configuration.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../jtranslate/lib/src/configuration/jtranslator_configuration.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/lib/src/json_to_code_builder.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../jtranslate/lib/src/json_to_code_builder.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/lib/src/jtranslator.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../jtranslate/lib/src/jtranslator.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/lib/src/validation/key_validation.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../jtranslate/lib/src/validation/key_validation.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/lib/src/validation/path_validation.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../jtranslate/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jtranslate/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../jtranslate/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2Z2fGLzoqeTleavtEcj8jOnKWqm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "F:/Development/jtranslate",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "AndroidSdkUpdater",
+    "show.migrate.to.gradle.popup": "false",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d97de6-6a7b-41ff-9eb9-dc85be0d4d85" name="Changes" comment="" />
+      <created>1701625007950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701625007950</updated>
+      <workItem from="1701625008967" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

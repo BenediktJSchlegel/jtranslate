@@ -1,0 +1,5 @@
+
+enum LanguageKeys{
+  english,
+  german
+}

@@ -1,7 +1,7 @@
 
 import 'package:jtranslate/src/exceptions/jtranslator_misconfiguration_exception.dart';
 
-import '../../jtranslate_generator.dart';
+import '../../jtranslate.dart';
 
 class KeyValidation{
 
@@ -9,7 +9,7 @@ class KeyValidation{
     List<String> keys = sets.map((e) => e.key).toList();
 
     keys.forEach((element) {
-      if(keys.contains(element)){
+      if(keys.where((k) => k == element).length > 1){
         throw JTranslatorMisconfigurationException("Duplicate Set-Key: $element");
       }
     });
